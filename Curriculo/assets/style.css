@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#texto{
+    margin-top: 15px;
+    background-color: #E0BC57;
+    padding: 15px;
+    width: 600px;
+    margin-bottom: 15px;
+    
+}
+
+ #links{
+    background-color: #f7bf27;
+    padding: 15px;
+    border:none;
+    cursor: pointer;
+ }
+ #links:hover{
+    background-color: #edf034;
+ }
+ a{
+    text-decoration: 0;
+ }
+body {
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #D8AB2C;
+    padding-left: 50px;
+    padding-right: 500px;
+
+}
